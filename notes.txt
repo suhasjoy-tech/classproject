@@ -1,1 +1,1 @@
-My first git projest
+Version 1: Today I learned about Git.
